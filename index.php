@@ -71,9 +71,9 @@
 <body class = "bg-light">
 	
 	<div class = "container-fluid py-4">
-	
-		
-	
+		<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+		  <a class="navbar-brand ml-3" href="dataRecord.php">Access Users</a>
+		</nav>
 		<h5>My Products</h5>
 		
 		<div class = "row">
